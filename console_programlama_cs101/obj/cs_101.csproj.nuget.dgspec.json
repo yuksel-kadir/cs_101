@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Documents\\GitHub\\cs_101\\console_programlama\\cs_101.csproj": {}
+    "C:\\Users\\Administrator\\Documents\\GitHub\\cs_101\\console_programlama_cs101\\cs_101.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Documents\\GitHub\\cs_101\\console_programlama\\cs_101.csproj": {
+    "C:\\Users\\Administrator\\Documents\\GitHub\\cs_101\\console_programlama_cs101\\cs_101.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\cs_101\\console_programlama\\cs_101.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\cs_101\\console_programlama_cs101\\cs_101.csproj",
         "projectName": "cs_101",
-        "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\cs_101\\console_programlama\\cs_101.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\cs_101\\console_programlama_cs101\\cs_101.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\cs_101\\console_programlama\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\cs_101\\console_programlama_cs101\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
