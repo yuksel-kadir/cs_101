@@ -6,6 +6,7 @@ namespace cs_101
     {
         static void Main(string[] args)
         {
+            
             Console.WriteLine("Merhabalar!");
             Console.WriteLine("İsim Soyisim Giriniz: ");
             string nameSurname = Console.ReadLine();
